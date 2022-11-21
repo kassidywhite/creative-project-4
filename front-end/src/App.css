@@ -1,0 +1,67 @@
+.App {
+  text-align: center;
+  margin: 75px;
+  background-color: #BBCDE5;
+}
+
+.inputs{
+  padding-top: 15px;
+  padding-bottom: 15px;
+  background-color: #639FAB;
+  margin-left:50px;
+  margin-right: 50px;
+  font-size: 20px;
+  color: #222222;
+  font-family: Times;
+}
+
+.spacing{
+  padding: 10px;
+}
+
+h1 {
+  color: #222222;
+  font-family: Times;
+  font-size: 45px;
+}
+
+h2 {
+  font-family: Times;
+  font-size: 35px;
+  padding-bottom: 10px;
+}
+
+.font-sizing-text-boxes {
+  font-size: 18px;
+  font-family: Times;
+}
+
+.outputs {
+  font-family: Times;
+  text-align: left;
+  margin-left: 75px;
+  margin-right: 75px;
+  padding-bottom: 25px;
+}
+
+.header {
+  padding-top: 20px;
+  padding-bottom:20px;
+  font-family: Times;
+}
+
+.main-header {
+  font-size: 45px;
+}
+
+.small-output {
+  padding: 15px;
+  margin-right:25px;
+  margin-left:25px;
+  background-color: #FFFFFF;
+}
+
+.delete-button {
+  font-family: Times;
+  padding-top: 15px;
+}
